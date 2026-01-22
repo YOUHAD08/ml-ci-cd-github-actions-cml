@@ -284,5 +284,3 @@ This project is for educational purposes as part of ENSET ML/MLOps curriculum.
 ## 🙏 Acknowledgments
 
 - Prof. Soufiane HAMIDA for the workshop materials
-- [CML by Iterative.ai](https://cml.dev/) for the reporting framework
-- ENSET for the ML/MLOps curriculum
